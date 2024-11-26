@@ -1,0 +1,11 @@
+Ticket ID: 00124
+Customer: Bob Williams
+Issue: Payment Issue
+Description: Payment was not processed for the last order.
+Resolution: Issue resolved by re-processing the payment and confirming with the payment gateway.
+
+Ticket ID: 00128
+Customer: Frank Harris
+Issue: Technical Support
+Description: Installation failure after update.
+Resolution: Resolved by reinstalling the software.

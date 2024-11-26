@@ -1,0 +1,18 @@
+{
+  "tickets": [
+    {
+      "ticket_id": "00124",
+      "customer_name": "Bob Williams",
+      "issue_type": "Payment Issue",
+      "description": "Payment not processed for the last order.",
+      "resolution": "Re-processed payment successfully."
+    },
+    {
+      "ticket_id": "00129",
+      "customer_name": "George Green",
+      "issue_type": "Account Access",
+      "description": "Cannot reset password.",
+      "resolution": "Pending resolution."
+    }
+  ]
+}

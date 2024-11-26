@@ -1,0 +1,4 @@
+TicketID,CustomerName,IssueType,IssueDescription,Resolution
+00123,Alice Johnson,Account Access,User cannot log into the account.,Resolved by resetting the password.
+00124,Bob Williams,Payment Issue,Payment not processed for the last order.,Re-processed payment successfully.
+00125,Charlie Brown,Product Return,User wants to return a laptop.,Return and refund issued.
